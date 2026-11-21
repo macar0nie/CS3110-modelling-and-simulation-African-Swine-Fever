@@ -1,0 +1,25 @@
+Scenario,Indicator,Mean,SD,Min,Max
+Scenario 1: Direct transmission only,Total pigs infected,38.3,20.165094457570948,17.0,81.0
+Scenario 1: Direct transmission only,% of pigs infected,31.916666666666668,16.804245381309123,14.166666666666666,67.5
+Scenario 1: Direct transmission only,Total deaths,34.833333333333336,17.774610589523345,16.0,75.0
+Scenario 1: Direct transmission only,Total recovered,1.7333333333333334,1.5521583045227219,0.0,5.0
+Scenario 1: Direct transmission only,Peak infectious pigs,13.033333333333333,3.595814936488148,7.0,20.0
+Scenario 1: Direct transmission only,Day of peak,26.066666666666666,10.092446247781943,15.0,50.0
+Scenario 1: Direct transmission only,Outbreak duration (days),47.6,11.83390803202158,31.0,60.0
+Scenario 1: Direct transmission only,Final susceptible pigs,81.7,20.165094457570948,39.0,103.0
+Scenario 2: Direct + indirect transmission,Total pigs infected,120.0,0.0,120.0,120.0
+Scenario 2: Direct + indirect transmission,% of pigs infected,100.0,0.0,100.0,100.0
+Scenario 2: Direct + indirect transmission,Total deaths,113.53333333333333,2.3741907272153604,109.0,118.0
+Scenario 2: Direct + indirect transmission,Total recovered,6.466666666666667,2.3741907272153604,2.0,11.0
+Scenario 2: Direct + indirect transmission,Peak infectious pigs,57.56666666666667,4.987455527990015,48.0,70.0
+Scenario 2: Direct + indirect transmission,Day of peak,30.466666666666665,2.1129050655654065,24.0,34.0
+Scenario 2: Direct + indirect transmission,Outbreak duration (days),43.3,2.520946729661915,39.0,47.0
+Scenario 2: Direct + indirect transmission,Final susceptible pigs,0.0,0.0,0.0,0.0
+Scenario 3: Direct + indirect + biosecurity,Total pigs infected,54.96666666666667,24.663924979660045,2.0,105.0
+Scenario 3: Direct + indirect + biosecurity,% of pigs infected,45.80555555555556,20.55327081638337,1.6666666666666667,87.5
+Scenario 3: Direct + indirect + biosecurity,Total deaths,39.2,19.07589198890615,2.0,83.0
+Scenario 3: Direct + indirect + biosecurity,Total recovered,2.3333333333333335,1.5610194134588469,0.0,7.0
+Scenario 3: Direct + indirect + biosecurity,Peak infectious pigs,12.1,5.175206142820753,2.0,21.0
+Scenario 3: Direct + indirect + biosecurity,Day of peak,41.266666666666666,16.880785513127933,5.0,60.0
+Scenario 3: Direct + indirect + biosecurity,Outbreak duration (days),56.6,11.98734965387003,9.0,60.0
+Scenario 3: Direct + indirect + biosecurity,Final susceptible pigs,65.03333333333333,24.663924979660045,15.0,118.0

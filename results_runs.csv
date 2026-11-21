@@ -1,0 +1,91 @@
+scenario,run,seed,total_infected,percent_infected,total_deaths,total_recovered,peak_infectious,peak_day,outbreak_duration,final_susceptible,direct_infections,indirect_infections
+Scenario 1: Direct transmission only,1,1000,20,16.666666666666668,18,2,9,16,49,100,18,0
+Scenario 1: Direct transmission only,2,1001,63,52.5,61,2,20,30,50,57,61,0
+Scenario 1: Direct transmission only,3,1002,19,15.833333333333334,18,1,11,19,31,101,17,0
+Scenario 1: Direct transmission only,4,1003,19,15.833333333333334,19,0,10,23,34,101,17,0
+Scenario 1: Direct transmission only,5,1004,41,34.166666666666664,40,1,13,20,57,79,39,0
+Scenario 1: Direct transmission only,6,1005,22,18.333333333333332,22,0,11,20,31,98,20,0
+Scenario 1: Direct transmission only,7,1006,17,14.166666666666666,16,1,9,24,35,103,15,0
+Scenario 1: Direct transmission only,8,1007,22,18.333333333333332,21,1,14,22,38,98,20,0
+Scenario 1: Direct transmission only,9,1008,21,17.5,19,2,11,21,31,99,19,0
+Scenario 1: Direct transmission only,10,1009,21,17.5,20,1,10,15,37,99,19,0
+Scenario 1: Direct transmission only,11,1010,41,34.166666666666664,41,0,11,44,58,79,39,0
+Scenario 1: Direct transmission only,12,1011,20,16.666666666666668,19,1,10,19,37,100,18,0
+Scenario 1: Direct transmission only,13,1012,66,55.0,64,1,18,31,60,54,64,0
+Scenario 1: Direct transmission only,14,1013,41,34.166666666666664,29,1,11,18,60,79,39,0
+Scenario 1: Direct transmission only,15,1014,79,65.83333333333333,71,5,18,50,60,41,77,0
+Scenario 1: Direct transmission only,16,1015,52,43.333333333333336,42,3,14,44,60,68,50,0
+Scenario 1: Direct transmission only,17,1016,65,54.166666666666664,59,2,16,43,60,55,63,0
+Scenario 1: Direct transmission only,18,1017,20,16.666666666666668,19,1,10,18,31,100,18,0
+Scenario 1: Direct transmission only,19,1018,49,40.833333333333336,42,1,15,20,60,71,47,0
+Scenario 1: Direct transmission only,20,1019,40,33.333333333333336,35,5,13,39,51,80,38,0
+Scenario 1: Direct transmission only,21,1020,22,18.333333333333332,22,0,11,18,34,98,20,0
+Scenario 1: Direct transmission only,22,1021,20,16.666666666666668,20,0,10,17,32,100,18,0
+Scenario 1: Direct transmission only,23,1022,81,67.5,75,5,20,28,60,39,79,0
+Scenario 1: Direct transmission only,24,1023,44,36.666666666666664,42,1,12,38,60,76,42,0
+Scenario 1: Direct transmission only,25,1024,44,36.666666666666664,41,3,16,21,45,76,42,0
+Scenario 1: Direct transmission only,26,1025,24,20.0,23,1,13,19,51,96,22,0
+Scenario 1: Direct transmission only,27,1026,20,16.666666666666668,19,1,7,21,55,100,18,0
+Scenario 1: Direct transmission only,28,1027,40,33.333333333333336,38,2,19,23,41,80,38,0
+Scenario 1: Direct transmission only,29,1028,41,34.166666666666664,32,3,11,21,60,79,39,0
+Scenario 1: Direct transmission only,30,1029,75,62.5,58,5,18,40,60,45,73,0
+Scenario 2: Direct + indirect transmission,1,1000,120,100.0,110,10,59,31,44,0,47,71
+Scenario 2: Direct + indirect transmission,2,1001,120,100.0,114,6,56,28,47,0,57,61
+Scenario 2: Direct + indirect transmission,3,1002,120,100.0,116,4,49,31,43,0,49,69
+Scenario 2: Direct + indirect transmission,4,1003,120,100.0,111,9,62,33,46,0,47,71
+Scenario 2: Direct + indirect transmission,5,1004,120,100.0,115,5,54,31,44,0,52,66
+Scenario 2: Direct + indirect transmission,6,1005,120,100.0,115,5,60,33,44,0,43,75
+Scenario 2: Direct + indirect transmission,7,1006,120,100.0,115,5,58,28,41,0,58,60
+Scenario 2: Direct + indirect transmission,8,1007,120,100.0,115,5,48,33,47,0,53,65
+Scenario 2: Direct + indirect transmission,9,1008,120,100.0,114,6,55,29,42,0,44,74
+Scenario 2: Direct + indirect transmission,10,1009,120,100.0,114,6,70,30,41,0,45,73
+Scenario 2: Direct + indirect transmission,11,1010,120,100.0,117,3,62,32,45,0,48,70
+Scenario 2: Direct + indirect transmission,12,1011,120,100.0,113,7,58,32,46,0,48,70
+Scenario 2: Direct + indirect transmission,13,1012,120,100.0,116,4,54,30,46,0,57,61
+Scenario 2: Direct + indirect transmission,14,1013,120,100.0,110,10,61,32,47,0,53,65
+Scenario 2: Direct + indirect transmission,15,1014,120,100.0,114,6,58,32,45,0,50,68
+Scenario 2: Direct + indirect transmission,16,1015,120,100.0,118,2,50,32,41,0,50,68
+Scenario 2: Direct + indirect transmission,17,1016,120,100.0,112,8,63,28,40,0,55,63
+Scenario 2: Direct + indirect transmission,18,1017,120,100.0,112,8,63,31,44,0,37,81
+Scenario 2: Direct + indirect transmission,19,1018,120,100.0,113,7,63,29,39,0,43,75
+Scenario 2: Direct + indirect transmission,20,1019,120,100.0,114,6,63,29,40,0,58,60
+Scenario 2: Direct + indirect transmission,21,1020,120,100.0,109,11,54,32,43,0,57,61
+Scenario 2: Direct + indirect transmission,22,1021,120,100.0,111,9,58,30,44,0,47,71
+Scenario 2: Direct + indirect transmission,23,1022,120,100.0,117,3,56,29,41,0,51,67
+Scenario 2: Direct + indirect transmission,24,1023,120,100.0,117,3,60,31,46,0,50,68
+Scenario 2: Direct + indirect transmission,25,1024,120,100.0,114,6,53,31,45,0,46,72
+Scenario 2: Direct + indirect transmission,26,1025,120,100.0,111,9,62,27,39,0,52,66
+Scenario 2: Direct + indirect transmission,27,1026,120,100.0,113,7,51,34,44,0,43,75
+Scenario 2: Direct + indirect transmission,28,1027,120,100.0,110,10,59,24,39,0,47,71
+Scenario 2: Direct + indirect transmission,29,1028,120,100.0,114,6,54,31,42,0,44,74
+Scenario 2: Direct + indirect transmission,30,1029,120,100.0,112,8,54,31,44,0,40,78
+Scenario 3: Direct + indirect + biosecurity,1,1000,25,20.833333333333332,14,1,7,59,60,95,13,10
+Scenario 3: Direct + indirect + biosecurity,2,1001,44,36.666666666666664,31,2,7,52,60,76,22,20
+Scenario 3: Direct + indirect + biosecurity,3,1002,58,48.333333333333336,33,1,12,57,60,62,40,16
+Scenario 3: Direct + indirect + biosecurity,4,1003,57,47.5,42,3,9,28,60,63,34,21
+Scenario 3: Direct + indirect + biosecurity,5,1004,57,47.5,48,4,13,35,60,63,38,17
+Scenario 3: Direct + indirect + biosecurity,6,1005,55,45.833333333333336,45,2,10,39,60,65,26,27
+Scenario 3: Direct + indirect + biosecurity,7,1006,58,48.333333333333336,35,3,17,55,60,62,35,21
+Scenario 3: Direct + indirect + biosecurity,8,1007,40,33.333333333333336,30,1,11,47,60,80,27,11
+Scenario 3: Direct + indirect + biosecurity,9,1008,4,3.3333333333333335,4,0,3,10,17,116,2,0
+Scenario 3: Direct + indirect + biosecurity,10,1009,73,60.833333333333336,49,1,15,56,60,47,50,21
+Scenario 3: Direct + indirect + biosecurity,11,1010,63,52.5,51,4,13,30,60,57,42,19
+Scenario 3: Direct + indirect + biosecurity,12,1011,76,63.333333333333336,56,3,16,46,60,44,43,31
+Scenario 3: Direct + indirect + biosecurity,13,1012,55,45.833333333333336,36,3,10,16,60,65,33,20
+Scenario 3: Direct + indirect + biosecurity,14,1013,95,79.16666666666667,83,2,21,47,60,25,51,42
+Scenario 3: Direct + indirect + biosecurity,15,1014,2,1.6666666666666667,2,0,2,5,9,118,0,0
+Scenario 3: Direct + indirect + biosecurity,16,1015,52,43.333333333333336,33,1,11,58,60,68,30,20
+Scenario 3: Direct + indirect + biosecurity,17,1016,38,31.666666666666668,31,2,8,13,60,82,27,9
+Scenario 3: Direct + indirect + biosecurity,18,1017,45,37.5,28,0,12,60,60,75,23,20
+Scenario 3: Direct + indirect + biosecurity,19,1018,68,56.666666666666664,42,2,12,44,60,52,39,27
+Scenario 3: Direct + indirect + biosecurity,20,1019,20,16.666666666666668,15,2,5,26,52,100,12,6
+Scenario 3: Direct + indirect + biosecurity,21,1020,69,57.5,56,3,14,40,60,51,46,21
+Scenario 3: Direct + indirect + biosecurity,22,1021,65,54.166666666666664,40,1,12,60,60,55,39,24
+Scenario 3: Direct + indirect + biosecurity,23,1022,105,87.5,77,4,21,52,60,15,71,32
+Scenario 3: Direct + indirect + biosecurity,24,1023,19,15.833333333333334,12,1,5,59,60,101,12,5
+Scenario 3: Direct + indirect + biosecurity,25,1024,61,50.833333333333336,44,3,14,19,60,59,34,25
+Scenario 3: Direct + indirect + biosecurity,26,1025,69,57.5,39,3,19,60,60,51,43,24
+Scenario 3: Direct + indirect + biosecurity,27,1026,82,68.33333333333333,57,3,21,53,60,38,55,25
+Scenario 3: Direct + indirect + biosecurity,28,1027,73,60.833333333333336,53,7,16,32,60,47,47,24
+Scenario 3: Direct + indirect + biosecurity,29,1028,35,29.166666666666668,27,3,9,52,60,85,23,10
+Scenario 3: Direct + indirect + biosecurity,30,1029,86,71.66666666666667,63,5,18,28,60,34,53,31
